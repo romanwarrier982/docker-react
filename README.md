@@ -1,15 +1,15 @@
 # React Ethereum Dapp Template 
 
-[![Build Status](https://travis-ci.org/uzyn/react-ethereum-dapp-template.svg?branch=master)](https://travis-ci.org/uzyn/react-ethereum-dapp-template)
+[![Build Status](https://travis-ci.org/romanwarrier982/react-ethereum-dapp-template.svg?branch=master)](https://travis-ci.org/romanwarrier982/react-ethereum-dapp-template)
 
 Template for React-based Ethereum decentralized app (Dapp). 
 
-This is an **opinionated version** of [ethereum-webpack-example-dapp](https://github.com/uzyn/ethereum-webpack-example-dapp) and largely intended for personal use, unless you share the same opinion as mine.
+This is an **opinionated version** of [ethereum-webpack-example-dapp](https://github.com/romanwarrier982/ethereum-webpack-example-dapp) and largely intended for personal use, unless you share the same opinion as mine.
 
 It is largely a combination of:
 
-- [react-webpack-airbnbjs-boilerplate](https://github.com/uzyn/react-webpack-airbnbjs-boilerplate), and
-- [ethereum-webpack-example-dapp](https://github.com/uzyn/ethereum-webpack-example-dapp)
+- [react-webpack-airbnbjs-boilerplate](https://github.com/romanwarrier982/react-webpack-airbnbjs-boilerplate), and
+- [ethereum-webpack-example-dapp](https://github.com/romanwarrier982/ethereum-webpack-example-dapp)
 
 ## What does this include
 

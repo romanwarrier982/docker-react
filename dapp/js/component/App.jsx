@@ -24,7 +24,7 @@ export default function App() {
       </p>
 
       <hr />
-      <p>You can find more information on this sample dapp at its <a href="https://github.com/uzyn/react-ethereum-dapp-template" target="_blank">GitHub repository</a> and <a href="https://twitter.com/uzyn" target="_blank">@uzyn</a>.</p>
+      <p>You can find more information on this sample dapp at its <a href="https://github.com/romanwarrier982/react-ethereum-dapp-template" target="_blank">GitHub repository</a> and <a href="https://twitter.com/romanwarrier982" target="_blank">@romanwarrier982</a>.</p>
     </div>
   );
 }

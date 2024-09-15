@@ -10,9 +10,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/uzyn/react-ethereum-dapp-template.git"
+    "url": "https://github.com/romanwarrier982/react-ethereum-dapp-template.git"
   },
-  "author": "U-Zyn Chua <chua@uzyn.com>",
+  "author": "U-Zyn Chua <chua@romanwarrier982.com>",
   "license": "UNLICENSED",
   "devDependencies": {
     "babel-core": "^6.7.7",
